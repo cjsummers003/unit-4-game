@@ -1,0 +1,69 @@
+html {
+	box-sizing: border-box;
+}
+
+body { 
+	min-height: 100vh;
+	font-family: 'Bangers', cursive;
+	color: white;
+    background: url("../images/cybertron.jpg");
+
+}
+
+h3 {
+	margin: 20px 0px 10px 0px;
+	color: white;
+	letter-spacing: 3px;
+}
+
+.header {
+	margin: 0;
+	padding: 0px;
+	color: grey;
+}
+
+h1, h3, #magicNumber, #totalScore, #wins, #losses, .score {
+	font-family: 'Bangers', cursive;
+	color: white;
+}
+
+h1 {
+	color: white;
+	margin: 55px 0px 75px 0px;
+	letter-spacing: 12px;
+}
+
+.crystalimg {
+	width: 150px;
+	margin: 30px auto;
+}
+
+.directions {
+	color:white;
+	text-align: center;
+	padding: 20px 85px;
+}
+
+.score {
+	padding-top: 30px;
+	margin-bottom: 0;
+	font-size: 22px;
+	font-weight: 600;
+	letter-spacing: 3px;
+}
+
+#winOrLose {
+	color: white;
+}
+
+.total, .scores, .directions {
+	margin: auto;
+}
+
+.btn {
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+	letter-spacing: 3px;
+}
