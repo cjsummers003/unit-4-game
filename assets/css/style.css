@@ -29,7 +29,7 @@ h1, h3, #magicNumber, #totalScore, #wins, #losses, .score {
 
 h1 {
 	color: white;
-	margin: 55px 0px 75px 0px;
+	margin: 5px 0px 25px 0px;
 	letter-spacing: 12px;
 }
 
