@@ -1,7 +1,7 @@
 # unit-4-game
 <h2>The Infinity Stone Collector</h2>
 <ul>
-    <li>This is a guessing game using numbers where the player will tty to match the power number.</li>
+    <li>This game allows the player to guess and try to match the power number.</li>
     <li>There will be four Infinity Stones displayed as buttons on the page.</li>
     <li>A Randomly selected number will be shown to the player at the start of the game.</li>
     <li>When the player clicks on an infinity stone it will add a specific amount of points to the player's total score.</li>
