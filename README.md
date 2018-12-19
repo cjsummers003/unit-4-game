@@ -1,5 +1,4 @@
-# unit-4-game
-<h2>The Infinity Stone Collector</h2>
+# The Infinity Stone Collector
 <ul>
     <li>This game allows the player to guess and try to match the power number.</li>
     <li>There will be four Infinity Stones displayed as buttons on the page.</li>
